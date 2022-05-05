@@ -1,3 +1,7 @@
+<head>
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+</head>
+
 # Stub page.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aenean sed adipiscing diam donec adipiscing tristique risus nec. In egestas erat imperdiet sed euismod nisi porta. Morbi enim nunc faucibus a. Aliquet bibendum enim facilisis gravida. Vel pretium lectus quam id leo in vitae turpis. Duis tristique sollicitudin nibh sit. Sit amet nulla facilisi morbi tempus. Congue eu consequat ac felis donec et odio. Sit amet mauris commodo quis imperdiet massa tincidunt. Eget mi proin sed libero enim. Vestibulum rhoncus est pellentesque elit ullamcorper dignissim cras tincidunt. At volutpat diam ut venenatis. Congue mauris rhoncus aenean vel elit.
