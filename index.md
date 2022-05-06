@@ -24,7 +24,7 @@
 
 # Flight schedule
 ## WAW-JFK (Poland-USA)
-https://flightaware.com/live/flight/LOT26
+[https://flightaware.com/live/flight/LOT26]
 
 ## JFK-WAW (USA-Poland)
 [22:05 EDT](https://flightaware.com/live/flight/LOT27)
