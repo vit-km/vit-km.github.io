@@ -23,11 +23,14 @@
 
 
 # Flight schedule
+## JFK-WAW (USA-Poland)
+Next scheduled flight: `2022-05-12, Thursday (Четвер)`
+
+[Departure 22:05 EDT](https://flightaware.com/live/flight/LOT27)  
+Arrival: 12:35 CEST (+1)
+
 ## WAW-JFK (Poland-USA)
 
 [Departure: 16:45 CEST](https://flightaware.com/live/flight/LOT26)  
 Arrival: 20:05 EDT
 
-## JFK-WAW (USA-Poland)
-[Departure 22:05 EDT](https://flightaware.com/live/flight/LOT27)  
-Arrival: 12:35 CEST (+1)
